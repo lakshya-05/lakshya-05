@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lakshya Porwal!
 
-<!--
-**lakshya-05/lakshya-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 About Me
+I'm a passionate developer currently learning with exciting projects in Python and C++ language. I love solving complex problems and turning ideas into reality.
 
-Here are some ideas to get you started:
+# 💼 Skills
+- **Languages**: Python(learning), C++, C ,HTML
+- **Technologies**: VS Code, GCP, AWS, PyCharm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🌱 Current Learning
+- Python
+- DSA(Data Structures and Algorithm)
+- DAA(Design Analysis and Algorithms)
+
+# 📫 Contact
+- **LinkedIn**: [https://www.linkedin.com/in/lakshya-porwal-sdsf-davv/]
+- **Email**: [lakshya.porwal05@gmail.com]
+  
+# 🎨 Hobbies
+- Coding
+- Playing Table Tennis
+- Reading Sci-fi novels
+- Playing Chess
+
