@@ -4,7 +4,7 @@
 I'm a passionate developer currently learning with exciting projects in Python and C++ language. I love solving complex problems and turning ideas into reality.
 
 ## 💼 Skills
-- **Languages**: Python(learning), C++, C ,HTML
+- **Languages**: Python(learning), C++, Java, C, HTML
 - **Technologies**: VS Code, GCP, AWS, PyCharm
 
 ## 🌱 Current Learning
