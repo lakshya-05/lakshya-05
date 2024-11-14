@@ -18,6 +18,7 @@ I'm a passionate developer currently learning with exciting projects in Python a
   
 ## 🎨 Hobbies
 - Coding
+- Watching Movies
 - Playing Table Tennis
 - Reading Sci-fi novels
 - Playing Chess
