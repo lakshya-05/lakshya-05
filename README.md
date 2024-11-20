@@ -22,4 +22,5 @@ I'm a passionate developer currently learning with exciting projects in Python a
 - Playing Table Tennis
 - Reading Sci-fi novels
 - Playing Chess
+- Moblie Mini Games
 
