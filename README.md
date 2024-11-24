@@ -8,7 +8,7 @@ I'm a passionate developer currently learning with exciting projects in Python a
 - **Technologies**: VS Code, GCP, AWS, PyCharm
 
 ## 🌱 Current Learning
-- Python
+- Python(Tensorflow)
 - DSA(Data Structures and Algorithm)
 - DAA(Design Analysis and Algorithms)
 
