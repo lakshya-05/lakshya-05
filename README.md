@@ -6,6 +6,7 @@ I'm a passionate developer currently learning with exciting projects in Python a
 ## 💼 Skills
 - **Languages**: Python(learning), C++, Java, C, HTML
 - **Technologies**: VS Code, GCP, AWS, PyCharm
+- Advanced Excel
 
 ## 🌱 Current Learning
 - Python(Tensorflow)
