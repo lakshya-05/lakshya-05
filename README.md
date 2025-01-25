@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Lakshya Porwal!
 
 ## 🚀 About Me
-I'm a passionate developer currently learning with exciting projects in [Python], [C++] and [Java] language. I love solving complex problems and turning ideas into reality.
+I'm a passionate developer currently learning with exciting projects in Python, C++ and Java language. I love solving complex problems and turning ideas into reality.
 
 ## 💼 Skills
 - **Languages**: Python(learning), C++, Java, C, HTML
