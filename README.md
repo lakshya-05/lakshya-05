@@ -14,7 +14,7 @@ I'm a passionate developer currently learning with exciting projects in Python, 
 - DAA(Design Analysis and Algorithms)
 
 ## 📫 Contact
-- **LinkedIn**: [https://www.linkedin.com/in/lakshya-porwal-sdsf-davv/]
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshya-porwal-sdsf-davv/)
 - ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 - **Email**: [lakshya.porwal05@gmail.com]
   
