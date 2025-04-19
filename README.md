@@ -5,7 +5,7 @@ I'm a passionate developer currently learning with exciting projects in Python, 
 
 ## 💼 Skills
 - **Languages**: Python, C++, Java, C, HTML
-- **Technologies**: VS Code, GCP, AWS, PyCharm
+- **Technologies**: VS Code, GCP, AWS, PyCharm, Jupyter Notebook 
 - **Framework**: Scikit, Streamlit, Flask
 - Advanced Excel
 
