@@ -1,7 +1,5 @@
 # ¡Hola!
 
-## 💡 Turning Ideas Into Code | Shaping Logic With Passion
-
 I'm a curious mind and a relentless builder, currently crafting projects in **Python**, **C++**, **Java**, **JavaScript**, and **CSS**. Whether it's a bug that won't budge or an algorithm that sings, I love diving into the depths of logic and emerging with something real.
 
 ---
