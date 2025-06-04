@@ -43,14 +43,6 @@ I'm a curious mind and a relentless builder, currently crafting projects in **Py
 
 ---
 
-## 🐍 Contribution Heatmap
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lakshya-05/lakshya-05/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ## 📈 Profile Views
 
 <p align="left">
