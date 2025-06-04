@@ -18,3 +18,8 @@ jobs:
           github_user_name: lakshya-05
           outputs: |
             ./output/github-contribution-grid-snake.svg
+      - name: Push generated snake svg to the output branch
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "Generated snake contribution grid"
+          add: "output/*.svg"
