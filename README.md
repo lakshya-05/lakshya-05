@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshya</h1>
 <h3 align="center">A passionate AI and Data Science enthusiast as well as a student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-05&label=Profile%20views&color=0e75b6&style=flat" alt="lakshya-05" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-05" alt="lakshya-05" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
