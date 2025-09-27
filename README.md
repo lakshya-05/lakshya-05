@@ -11,8 +11,6 @@
 
 ---
 
-## 📈 Profile Views
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshya-05&style=flat-square&color=blue" alt="Profile Views" />
 </p>
