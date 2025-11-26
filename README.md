@@ -11,6 +11,12 @@
 
 ---
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-05&theme=react-dark"/>
+</div>
+
+---
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshya-05&style=flat-square&color=blue" alt="Profile Views" />
 </p>
