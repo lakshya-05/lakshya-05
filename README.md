@@ -9,13 +9,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-05&theme=dracula" alt="lakshya-05" /></p>
 
----
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-05&theme=react-dark"/>
 </div>
 
----
+### 📁 Portfolio
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-8A2BE2?style=flat-square&logo=netlify&logoColor=white)](https://courageous-pavlova-2ca293.netlify.app/)
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=lakshya-05&style=flat-square&color=blue" alt="Profile Views" />
