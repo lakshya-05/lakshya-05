@@ -19,7 +19,6 @@
 <!--
 ## Cool thing:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6t766yrcx5ts2stritdwuemba&cover_image=true&theme=spotify-embed&show_offline=false&background_color=000000&interchange=false&profanity=true&bar_color=53b14f&bar_color_cover=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31g6t766yrcx5ts2stritdwuemba&redirect=true)
-
 -->
 
 <p align="left">
