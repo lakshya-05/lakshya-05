@@ -3,11 +3,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-05&theme=dracula" alt="lakshya-05" /></a> </p>
 
-<p align="center" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshya-05&show_icons=true&locale=en&layout=compact&theme=dracula" alt="lakshya-05" /></p>
+<div align="center">
 
-<p align="center" >&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshya-05&show_icons=true&locale=en&theme=dracula" alt="lakshya-05" /></p>
+  <img src="https://readme-summary-cards.vercel.app/api/cards/profile-details?username=lakshya-05&theme=radical"> 
 
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshya-05&theme=dracula" alt="lakshya-05" /></p>
+</div>
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lakshya-05&theme=react-dark"/>
